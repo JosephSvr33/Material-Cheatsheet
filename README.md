@@ -1,2 +1,2 @@
 # Material-Cheatsheet
-Material Design components used in Angular
+Material Design components for Angular Material Projects
